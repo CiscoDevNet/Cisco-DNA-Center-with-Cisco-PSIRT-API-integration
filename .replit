@@ -1,0 +1,2 @@
+language = "csharp"
+run = "python​ ​01_vulnerability_scan.py"
